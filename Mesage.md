@@ -1,0 +1,1 @@
+Po zadaniu mogę powiedzieć że zabrakło lekko czasu i jak kolejne bym dopisał komentarze i dokończył metodę POST bo nie działa zapisywanie. Jednak walidacja i zwracanie kodów są poprawne. Mam nadzieję że do zobaczenia na rozmowie i miłego dnia! :D

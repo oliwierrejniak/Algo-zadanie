@@ -77,7 +77,7 @@ def list_tasks(body, params):
         [{"id": 1, "title": "Kupic mleko"}, {"id": 2, "title": "Nauczyc sie Gita"}]
     """
     # TODO (Część 2)
-    return 501, {"error": "Not implemented"}
+    return 200, tasks
 
 
 def create_task(body, params):

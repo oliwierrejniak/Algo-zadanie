@@ -34,6 +34,11 @@ def is_valid_title(title):
     Jak odpalisz serwer, to sam przetestuje tę funkcję i wypluje wynik w konsoli.
     """
     # TODO (Część 1): na razie ta funkcja przepuszcza wszystko jak dziurawy firewall.
+    
+
+    if len(title) == 0:
+        return False
+
     return True
 
 
